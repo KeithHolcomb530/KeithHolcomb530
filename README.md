@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+
+My name is Keith, and I'm a student majoring in Computer Information Systems - Software Development interested in various software development and design practices!
+
+- 🔭 I’m currently working on personal game project basics, such as 3D game design and AI-State Machine processes!
+- 🌱 I’m currently learning the basis of video game development in the Godot Engine!
+- ⚡ My biggest project was for my Senior Projects course at the University of Akron, check it out [here](https://github.com/KeithHolcomb530/PCBuildingApp-SeniorProjects)!
+- 👯 I'm currently looking for an internship or full-time position within an IT or Software Development field!
+
 
 <!--
 **KeithHolcomb530/KeithHolcomb530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
