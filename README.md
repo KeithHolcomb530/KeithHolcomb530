@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Keith, and I'm a student majoring in Computer Information Systems - Software Development interested in various software development and design practices!
+My name is Keith, I'm a student majoring in Computer Information Systems - Software Development and am interested in various software development and design practices!
 
 - 🔭 I’m currently working on personal game project basics, such as 3D game design and AI-State Machine processes!
 - 🌱 I’m currently learning the basis of video game development in the Godot Engine!
