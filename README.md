@@ -2,9 +2,9 @@
 
 My name is Keith, I'm a student majoring in Computer Information Systems - Software Development and am interested in various software development and design practices!
 
-- 🔭 I’m currently working on personal game project basics, such as 3D game design and AI-State Machine processes!
-- 🌱 I’m currently learning the basis of video game development in the Godot Engine!
-- ⚡ My biggest project was for my Senior Projects course at the University of Akron, check it out [here](https://github.com/KeithHolcomb530/PCBuildingApp-SeniorProjects)!
+- 🔭 I’m currently working on finishing my major, as well as video game development basics, such as AI State Machines!
+- 🌱 Outside of my major, I’m learning the basics of video game development in the Godot Engine (using GDScript)!
+- ⚡ My biggest project was my Senior Project for the University of Akron, check it out [here](https://github.com/KeithHolcomb530/PCBuildingApp-SeniorProjects)!
 - 👯 I'm currently looking for an internship or full-time position within an IT or Software Development field!
 
 
