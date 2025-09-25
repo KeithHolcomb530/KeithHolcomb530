@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Keith, I'm a student majoring in Computer Information Systems - Software Development and am interested in various software development and design practices!
+My name is Keith and I'm a student at the University of Akron majoring in Computer Information Systems - Software Development. 
 
-- 🔭 I’m currently working on finishing my major, as well as video game development basics, such as AI State Machines!
-- 🌱 Outside of my major, I’m learning the basics of video game development in the Godot Engine (using GDScript)!
-- ⚡ My biggest project was my Senior Project for the University of Akron, check it out [here](https://github.com/KeithHolcomb530/PCBuildingApp-SeniorProjects)!
+- 🔭 I’m currently reviewing web development practices, as well as database management systems!
+- 🌱 Outside of my major, I’m learning video game development in the Godot Engine (using GDScript)!
+- ⚡ My biggest project was my Senior Project, check it out [here](https://github.com/KeithHolcomb530/PCBuildingApp-SeniorProjects)!
 - 👯 I'm currently looking for an internship or full-time position within an IT or Software Development field!
 
 
