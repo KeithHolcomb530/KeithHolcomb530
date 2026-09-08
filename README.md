@@ -3,10 +3,10 @@
 My name is Keith and I am a Bachelor of Science in Computer Information Systems: Software Development.
 
 - 🔭 I’m currently reviewing software development practices!
-- 🌱 Outside of my major, I’m learning video game development in the Godot Engine (using GDScript)!
+- 🌱 I’m learning video game development in the Godot Engine (using GDScript)!
 - ⚡ My previous experience consists of an Internship in Cyber Forensics where I worked remotely with a professor in the department to create lab exercises for students!
 - ⚡ My biggest project was my Senior Capstone, check it out [here](https://github.com/KeithHolcomb530/PCBuildingApp-SeniorProjects)!
-- 👯 I'm currently looking for a full-time position within an IT or Software Development field!
+- 👯 I'm currently looking for a full-time position to gain experience within the IT or Software Development fields!
 
 
 <!--
